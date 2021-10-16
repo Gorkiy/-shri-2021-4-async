@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Peter Yakovlev",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "@babel/eslint-parser": "^7.15.8"
+  }
 }
