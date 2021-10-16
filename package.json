@@ -10,7 +10,7 @@
   "author": "Peter Yakovlev",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.0.1",
-    "@babel/eslint-parser": "^7.15.8"
+    "@babel/eslint-parser": "^7.15.8",
+    "eslint": "^8.0.1"
   }
 }
